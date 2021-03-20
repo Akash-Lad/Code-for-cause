@@ -49,6 +49,11 @@ Calculate your progress in-app to track your overall health and potential risks.
 
 Clone or download the project and you're on your way to victory!
 
+# Tech-Stack
+
+1. Android Studio (Java)
+2. SQLite Database
+3. Adobe XD
 
 ## Prerequisites
 
