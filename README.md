@@ -1,13 +1,13 @@
 # Devspace-Hackathon
 
-# Healer Within
 ![logo](https://user-images.githubusercontent.com/54894091/111880325-dda96080-89d0-11eb-96b6-ab3ba9ccfa0d.jpg)
 
 # Health and Social Responsibility
 
 ## Track 4: Indoor fitness during pandemic
 
-## Click on the Google-Drive link below to download the APK
+### Click on the Google-Drive link below to download the APK using your android phone
+
 https://drive.google.com/file/d/1g-6tzplxNKDuhK61lLJkbVQjhBI69_jL/view?usp=sharing
 
 
