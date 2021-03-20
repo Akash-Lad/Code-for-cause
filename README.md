@@ -1,6 +1,7 @@
 # Devspace-Hackathon
 
 # Healer Within
+![logo](https://user-images.githubusercontent.com/54894091/111880325-dda96080-89d0-11eb-96b6-ab3ba9ccfa0d.jpg)
 
 The COVID-19 Pandemic has left an indelible imprint on Human
 Health. Isolation and remote working have taken a huge toll on people's
