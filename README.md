@@ -4,7 +4,7 @@
 
 # Health and Social Responsibility
 
-## Track 4: Indoor fitness during pandemic
+## Indoor fitness during pandemic
 
 ### Click on the Google-Drive link below to download the APK using your android phone
 
