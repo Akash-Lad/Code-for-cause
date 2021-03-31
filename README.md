@@ -1,4 +1,4 @@
-# Devspace-Hackathon
+# Code for Cause
 
 ![logo](https://user-images.githubusercontent.com/54894091/111880325-dda96080-89d0-11eb-96b6-ab3ba9ccfa0d.jpg)
 
